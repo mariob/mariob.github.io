@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://redshark.se</loc>
+	<lastmod>2021-11-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://redshark.se/img/white%20logo.png</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://redshark.se/404.html</loc>
+	<lastmod>2021-11-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://redshark.se/img/white%20logo.png</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+</url>
+</urlset>
